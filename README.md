@@ -1,1 +1,2 @@
 # Softsys-Jetracer
+This was the final project for  Software for Sensors & Systems(MECH 5970) at Auburn University. The project was organized as a Grand Prix where students would race RC cars equipped with a Jetson Nano, a camera, and a Marvelmind Indoor Positioning Beacon.  The goal was to apply C++ and ROS2 knowledge learned throughout the semester to have the car autonomously race against, and beat the other students.
