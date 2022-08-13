@@ -1,0 +1,23 @@
+cam_control:
+  ros__parameters:
+    lookAhead: 70.0
+    angleWeight: 0.58
+    Kp_s: 1.05
+    Ki_s: 0.0
+    Kd_s: 0.65
+    bias_s: 0.0
+    minThrottle : 0.5
+    maxThrottle : 0.65
+    Kp_t: 1.6
+    Ki_t: 0.0
+    Kd_t: 0.6
+    bias_t: 0.0
+
+    zone_1_x: [0.0,5.0]
+    zone_1_y: [2.0,5.5]
+    zone_1_K: 2.0
+
+    zone_2_x: [3.8,5.0]
+    zone_2_y: [4.5,6.0]
+    zone_2_K: 0.7
+
